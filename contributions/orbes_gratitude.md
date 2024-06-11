@@ -13,11 +13,16 @@ La durée est variable selon la taille du groupe. On peut compter une vingtaine 
 
 ## Procédure
 
+
+### Postures
+
 Il y a 2 postures dans l'atelier :
-- la **personne qui accueille**\n
+- la **personne qui accueille**\
   Elle est fixe, les yeux fermés. Ses mains jointes, face au ciel forment un réceptacle.
-- la **personne qui remercie**\n
+- la **personne qui remercie**\
   Elle rejoint une personne accueillante. Elle joint ses mains pour créer une orbe, la dépose dans les mains de son duo et formule un remerciement.
+
+### Déroulé
 
 - le groupe se divise en deux à nombre égal
 - une moitié de groupe se répartit dans l'espace et prend une posture de **personne qui accueille**
