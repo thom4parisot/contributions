@@ -14,21 +14,24 @@ La durée est variable selon la taille du groupe. On peut compter une vingtaine 
 ## Procédure
 
 
-### Postures
+### Rôles
 
-Il y a 2 postures dans l'atelier :
-- la **personne qui accueille**\
+Il y a 2 rôles dans l'atelier :
+- **personne qui accueille**\
   Elle est fixe, les yeux fermés. Ses mains jointes, face au ciel forment un réceptacle.
-- la **personne qui remercie**\
+- **personne qui remercie**\
   Elle rejoint une personne accueillante. Elle joint ses mains pour créer une orbe, la dépose dans les mains de son duo et formule un remerciement.
 
 ### Déroulé
 
+<!-- source https://excalidraw.com/#json=F-4JLI-hV4dlh9_218kor,Bi09ypdf3DPuMskQGVbiMg -->
+![Schéma de déroulé](../media/orbes_gratitude.png)
+
 - le groupe se divise en deux à nombre égal
-- une moitié de groupe se répartit dans l'espace et prend une posture de **personne qui accueille**
+- une moitié de groupe se répartit dans l'espace et prend un rôle de **personne qui accueille**
 - les autres personnes se dirigent vers la personne de leur choix
 - la personne qui remercie formule son message en regardant son binome dans les yeux
-- la personne qui accueille écarte les mains de son binôme pour signifier l'alternance de posture
+- la personne qui accueille écarte les mains de son binôme pour signifier l'alternance de rôle
 - la personne qui accueillait part à son tour à la rencontre d'une autre personne à remercier
 - etc.
   
